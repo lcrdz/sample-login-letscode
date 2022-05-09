@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815013871393",
+    "project_id": "sample-login-letscode",
+    "storage_bucket": "sample-login-letscode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815013871393:android:0be5adf5343a7cef360860",
+        "android_client_info": {
+          "package_name": "com.lcardoso.sample_login_letscode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815013871393-bd2ojobt5nep1m2ckdhdu2gtd9417kio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8gmabtKfXLk9xjFdBl2oCy1K98xpeug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815013871393-bd2ojobt5nep1m2ckdhdu2gtd9417kio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

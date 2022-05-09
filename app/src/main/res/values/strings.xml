@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">sample_login_letscode</string>
     <string name="login_button">login</string>
+    <string name="logout_button">logout</string>
+    <string name="register_button">cadastrar</string>
     <string name="app_title">Sample Login</string>
     <string name="user">usuário</string>
     <string name="password">senha</string>
+    <string name="logged_title">usuário %1$s logado com sucesso!</string>
 </resources>
