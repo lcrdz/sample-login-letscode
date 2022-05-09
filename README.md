@@ -10,4 +10,4 @@
 
 
 
-#### Link do artigo: TODO
+#### Link do artigo: https://medium.com/@_lccardoso/restringindo-o-acesso-de-seu-app-android-com-autentica%C3%A7%C3%A3o-bc54098ee013
