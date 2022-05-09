@@ -6,6 +6,10 @@ plugins {
 android {
     compileSdk 31
 
+    viewBinding {
+        enabled = true
+    }
+
     defaultConfig {
         applicationId "com.lcardoso.sample_login_letscode"
         minSdk 21

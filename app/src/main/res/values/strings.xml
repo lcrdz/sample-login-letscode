@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">sample_login_letscode</string>
+    <string name="login_button">login</string>
+    <string name="app_title">Sample Login</string>
+    <string name="user">usuário</string>
+    <string name="password">senha</string>
 </resources>
